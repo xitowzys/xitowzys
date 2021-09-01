@@ -1,8 +1,9 @@
 <div align="center">
-
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hi I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+ 
+#  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e479v4fcpqgv52i1vz5apnm7qyt5dcz7nekr678w3ow&rid=giphy.gif&ct=g" width="28px" alt="hi"/> Hi I'm George <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e479v4fcpqgv52i1vz5apnm7qyt5dcz7nekr678w3ow&rid=giphy.gif&ct=g" width="28px" alt="hi"/>
 
 ### 📫 How to reach me 📫
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="300px" alt="hi"/></img>
 
 [![Email](https://img.shields.io/badge/-xitowzys-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xitowzys@gmail.com)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/xitowzys)](https://vk.com/xitowzys)

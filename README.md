@@ -15,5 +15,5 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitowzys&show_icons=true&theme=tokyonight)
 
-### 🤫 Who owns the information, he owns the world. 🤫
+### 🤫 Who owns the information owns the world. 🤫
 </div>

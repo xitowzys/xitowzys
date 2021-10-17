@@ -1,6 +1,7 @@
 <div align="center">
- 
-#  <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> Hi I'm George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/>
+<!--  
+#  <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> Hi I'm George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> -->
+<img src="https://i.giphy.com/MdA16VIoXKKxNE8Stk.gif" width="56px" alt="hi"/> Hi I'm George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> 
 
 ### 📫 How to reach me 📫
 <img src="https://c.tenor.com/wuuWICoS8kMAAAAi/smartparcel-down-arrows.gif" width="50px" alt="hi"/></img>

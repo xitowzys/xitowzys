@@ -1,11 +1,11 @@
 <div align="center">
-<!--  
-#  <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> Hi I'm George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> -->
-<img src="https://i.giphy.com/MdA16VIoXKKxNE8Stk.gif" width="56px" alt="hi"/> Hi I'm George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> 
+ 
+#  <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> Hi I'm George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/>
 
 ### 📫 How to reach me 📫
 <img src="https://c.tenor.com/wuuWICoS8kMAAAAi/smartparcel-down-arrows.gif" width="50px" alt="hi"/></img>
-<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="300px" alt="hi"/></img>
+<img src="https://i.giphy.com/MdA16VIoXKKxNE8Stk.gif" width="300px" alt="hi"/></img>
+<!-- <img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="300px" alt="hi"/></img> -->
 <img src="https://c.tenor.com/wuuWICoS8kMAAAAi/smartparcel-down-arrows.gif" width="50px" alt="hi"/></img>
 
 [![Email](https://img.shields.io/badge/-xitowzys-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xitowzys@gmail.com)

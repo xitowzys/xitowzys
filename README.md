@@ -15,7 +15,6 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://wapp.click/79041248533)](https://wapp.click/79041248533)
 [![Viber](https://img.shields.io/badge/-Viber-7360F2?style=for-the-badge&logo=Viber&logoColor=white&link=https://viber.click/79041248533)](https://viber.click/79041248533)
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitowzys&show_icons=true&theme=tokyonight)
 
 ### 🤫 Who owns the information owns the world 🤫
 </div>

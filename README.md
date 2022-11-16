@@ -39,7 +39,6 @@
 
 <h4 align="left">Frontend frameworks</h4>
 
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)]()
 [![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)]()
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)]()
 
@@ -54,6 +53,7 @@
 ---
 
 <h3 align="left">📊 Stats</h4>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)]()
 
 ---

@@ -1,5 +1,4 @@
 <h2 align="left">👋 Hi I'm Kalinka George </h2>
----
 
 <h3 align="left"> 📫 How to reach me </h3>
 

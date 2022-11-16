@@ -32,7 +32,7 @@
 
 <h3 align="left">📊 Stats</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)(https://github-readme-stats.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)
 
 
 ---

@@ -56,6 +56,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xitowzys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 🤫 Who owns the information owns the world 🤫

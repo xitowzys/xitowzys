@@ -1,10 +1,12 @@
-#  <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/> Hi I'm George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/>
+<p align="center">
+	<img src="raw/logo.gif" />
+</p>
+
+##  Hi I'm Kalinka George <img src="https://c.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif" width="56px" alt="hi"/>
 
 ### 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/-xitowzys-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xitowzys@gmail.com)
-[![Вконтакте](https://img.shields.io/badge/-Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/xitowzys)](https://vk.com/xitowzys)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Minutemailer&logoColor=white&link=https://tlgg.ru/xitowzys)](https://tlgg.ru/xitowzys)
+[![Email](https://img.shields.io/badge/-xitowzys-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xitowzys@gmail.com)[![Вконтакте](https://img.shields.io/badge/-Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/xitowzys)](https://vk.com/xitowzys)[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Minutemailer&logoColor=white&link=https://tlgg.ru/xitowzys)](https://tlgg.ru/xitowzys)
 ---
 
 <h3 align="left">💻 Languages and Tools:</h3>

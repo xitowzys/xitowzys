@@ -64,4 +64,4 @@
 
 ---
 
-### 🤫 Who owns the information owns the world 🤫
+<h3 align="center"> 🤫 Who owns the information owns the world 🤫 </h3>

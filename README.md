@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/-xitowzys-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xitowzys@gmail.com)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/xitowzys)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Minutemailer&logoColor=white&link=https://tlgg.ru/xitowzys)](https://tlgg.ru/xitowzys)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Minutemailer&logoColor=white&link=https://t.me/xitowzys)](https://t.me/xitowzys)
 [![Instagram](https://img.shields.io/badge/-Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xitowzys/)
 
 > Please specify in the message that you are with **github**

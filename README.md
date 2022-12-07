@@ -13,6 +13,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Minutemailer&logoColor=white&link=https://tlgg.ru/xitowzys)](https://tlgg.ru/xitowzys)
 [![Instagram](https://img.shields.io/badge/-Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xitowzys/)
 
+> Please specify in the message that you are with **github**
+
 ---
 
 <h3 align="left">💻 Main technology stack:</h3>

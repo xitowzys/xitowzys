@@ -61,7 +61,7 @@
 
 <h3 align="left">📊 Stats</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)]()
+[![Anurag's GitHub stats](https://github-readme-stats-umber-tau-82.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)]()
 
 ---
 

@@ -20,8 +20,12 @@
 
 <h3 align="left">📊 Portfolio</h4>
 
-[![](https://custom-icon-badges.demolab.com/badge/Irkutsk%20State%20University-%25?style=for-the-badge&logo=logo-isu-irkutsk&color=blue)](https://github.com/xitowzys-ISU)
-[![](https://img.shields.io/badge/All%20projects%20while%20studying%20at%20Irkutsk%20State%20University-%25?style=for-the-badge&logoColor=white&color=white)](https://github.com/xitowzys-ISU)
+| Project                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://custom-icon-badges.demolab.com/badge/Irkutsk%20State%20University-%25?style=for-the-badge&logo=logo-isu-irkutsk&color=blue)](https://github.com/xitowzys-ISU) | All projects while studying at irkutsk state university      |
+| [![](https://img.shields.io/badge/FastAPI%20Auto%20Generate%20Gateway-%25?style=for-the-badge&logo=fastapi&logoColor=white&color=ef5652)](https://github.com/gnss-lab/FastAPI-Auto-Generate-Gateway) | A library that allows you to automate the process of creating an API Gateway |                                                 |
+
+
 
 ---
 

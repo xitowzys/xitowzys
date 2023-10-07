@@ -18,6 +18,13 @@
 
 ---
 
+<h3 align="left">📊 Portfolio</h4>
+
+[![](https://custom-icon-badges.demolab.com/badge/Irkutsk%20State%20University-%25?style=for-the-badge&logo=logo-isu-irkutsk&color=blue)](https://github.com/xitowzys-ISU)
+[![](https://img.shields.io/badge/All%20projects%20while%20studying%20at%20Irkutsk%20State%20University-%25?style=for-the-badge&logoColor=white&color=white)]()
+
+---
+
 <h3 align="left">💻 Main technology stack:</h3>
 
 <h4 align="left">Languages</h4>
@@ -55,12 +62,6 @@
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]()
-
----
-
-<h3 align="left">📊 Stats</h4>
-
-[![Anurag's GitHub stats](https://github-readme-stats-94f4-h1ksm1o4s-xitowzys.vercel.app/api?username=xitowzys&count_private=true&show_icons=true)]()
 
 ---
 

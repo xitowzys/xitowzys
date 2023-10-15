@@ -12,8 +12,6 @@
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/xitowzys)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Minutemailer&logoColor=white&link=https://t.me/xitowzys)](https://t.me/xitowzys)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/79041248533)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xitowzys/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalinka-george/)
 
 > Please specify in the message that you are with **github**
